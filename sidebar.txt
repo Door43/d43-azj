@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[azj:home|Door43 (azj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-azj|d43-azj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-azj/archive/master.zip|d43-azj.zip]]
+
+**Recent Changes**
+{{changes>ns = azj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/azj|Ethnologue data]]
+
